@@ -1,2 +1,2 @@
 # ForecastbyShinyWebApp
-This App can be used as a forecasting tool to test when a specific smoothing forecasting technique should be implemented.
+This App can be used as a forecasting tool to test when a specific smoothing forecasting technique should be implemented in any time sereis data.
